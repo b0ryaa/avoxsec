@@ -1,4 +1,4 @@
-<a href="https://doxbin.org/user/synaps3c"><img align="center" src="https://github.com/avoxsec/avoxsec/blob/main/Avox.jpg"/></a>
+<a href="https://doxbin.org/user/synaps3c"><img align="center" src="https://github.com/avoxsec/avoxsec/blob/main/Fart.png"/></a>
 
 ### Hi there 👋 I'm Avox also known as Synaps3c 
 
