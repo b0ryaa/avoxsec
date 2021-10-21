@@ -6,13 +6,12 @@
 
 
 ## ABOUT ME
-Hey, I'm a black hat hacker!, doesn't mean I'm mean, its just something I do for as a side job! I'm studying to be better at everything I do.
-(T.W) Sometimes I'm a bit offensive! 
+Hey, I'm a student studying in the Cyber Security Field! This is where I'll be posting my projects and showing my learning progress!
 
 - 🍎 [REDACTED]
-- 🎬 Streamer!
-- 🌟 Star In DaHood
-- ⚡️ E$TIN X GRAVE
+- 🎬 Stream Live Trades
+- 🌟 !!!
+- ⚡️ E$TIN
 - 👨🏻‍💻 Cyber Security
 - 🔭 Upcoming Developer
 
