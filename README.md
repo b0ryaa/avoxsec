@@ -32,5 +32,5 @@ Hey, I'm a student studying in the Cyber Security Field! This is where I'll be p
 
 # Activity
 <!-- BLOG-POST-LIST:START -->
-- Currently Working on a Music Discord bot! 
+- Currently Working on a IP checker
 <!-- BLOG-POST-LIST:END -->
