@@ -6,14 +6,9 @@
 
 
 ## ABOUT ME
-Hey, I'm a student studying in the Cyber Security Field! This is where I'll be posting my projects and showing my learning progress!
+Shut the fuck up, if you are here to clown my work or flashcard me queer
 
-- 🍎 [REDACTED]
-- 🎬 Stream Live Trades
-- 🌟 !!!
-- ⚡️ E$TIN
-- 👨🏻‍💻 Cyber Security
-- 🔭 Upcoming Developer
+
 
 
 ## MY GIT STATS
@@ -21,7 +16,7 @@ Hey, I'm a student studying in the Cyber Security Field! This is where I'll be p
 |---|---|
 
 
-# Latest Doxxes!
+# Latest Doxxes
 <!-- YOUTUBE:START -->
 - https://doxbin.org/upload/UselssDoxOfASkid
 
