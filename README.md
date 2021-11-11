@@ -6,7 +6,7 @@
 
 
 ## ABOUT ME
-Shut the fuck up, if you are here to clown my work or flashcard me queer
+smh here to flashcard me again
 
 
 
